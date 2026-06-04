@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">Requestly wordmark</title>
+  <desc id="desc">A local README-safe Requestly wordmark used to avoid broken remote logo links.</desc>
+  <rect width="640" height="160" rx="28" fill="#0b1020"/>
+  <g transform="translate(56 38)">
+    <rect x="0" y="0" width="84" height="84" rx="22" fill="#ff4f4f"/>
+    <path d="M25 53c0-16 11-28 29-28h10v15H53c-8 0-13 5-13 13v11H25V53Z" fill="#fff"/>
+    <path d="M54 25h18v18H54z" fill="#fff" opacity=".88"/>
+  </g>
+  <text x="168" y="97" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">Requestly</text>
+  <text x="171" y="126" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2">HTTP INTERCEPTOR</text>
+</svg>

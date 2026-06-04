@@ -15,21 +15,7 @@
 
 <p align="center">
   <a href="https://requestly.com/" rel="noreferrer noopener">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/requestly/requestly/blob/master/app/src/assets/img/brand/rq_logo_full.svg?raw=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github.com/requestly/requestly/blob/master/app/src/assets/img/brand/rq_logo_full_light_mode.svg?raw=true"
-      />
-      <img
-        alt="Requestly Logo"
-        src="https://github.com/requestly/requestly/blob/master/app/src/assets/img/brand/rq_logo_full.svg?raw=true"
-        width="42%"
-      />
-    </picture>
+    <img src="docs/assets/requestly-wordmark.svg" alt="Requestly Logo" width="42%" />
   </a>
 </p>
 
